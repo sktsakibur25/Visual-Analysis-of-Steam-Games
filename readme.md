@@ -3,7 +3,7 @@
 
 Tableau public dashboard link: https://public.tableau.com/app/profile/sakibur.rahman5899/viz/GameDataVisualization_17644487283440/Dashboard2
 
-The goal of this dashboard is to analyze video-game market trends using scraped game-level data from [SteamDB](https://steamdb.info/) and other Steam data sources.
+The goal of this dashboard is to analyze video-game market trends using scraped game-level data from [SteamDB](https://steamdb.info/).
 It focuses on highlighting:
 
     1. Which genres have the highest revenue potential
