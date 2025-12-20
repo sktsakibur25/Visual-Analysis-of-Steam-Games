@@ -3,6 +3,8 @@
 
 Tableau public dashboard link: https://public.tableau.com/app/profile/sakibur.rahman5899/viz/GameDataVisualization_17644487283440/Dashboard2
 
+I have used 35357 rows of game data for the analysis
+
 The goal of this dashboard is to analyze video-game market trends using scraped game-level data from [SteamDB](https://steamdb.info/).
 It focuses on highlighting:
 
